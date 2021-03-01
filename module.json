@@ -1,0 +1,12 @@
+{
+  "id": "MortalEnemiezPatcher",
+  "name": "Mortal Enemiez Patcher",
+  "author": "holaholacocacola",
+  "version": "0.0.2",
+  "released": "7/4/20",
+  "updated": "2/20/21",
+  "description": "Patcher for Mortal Enemies De-Aimbotting",
+  "requires": ["unifiedPatchingFramework"],
+  "moduleLoader": "UPF",
+  "canHotLoad": true
+}
