@@ -14,6 +14,6 @@ Requirements:
 - Original      - 'bool': Apply original npc attack commitment changes
 
 
-###Customization
+### Customization
 You can override move_types.json with your own personal movement tweaks if you'd like to merge multiple move type mods. If you do this, make sure to select 'Original' attack commitment
 as rival remix hardcodes certain fields in the patcher.
