@@ -2,6 +2,8 @@
 # zedit_upf_mortal_enemiez
 =============================
 #### Zedit patcher for mortal enemies
+This is the same patcher I uploaded to [nexus](https://www.nexusmods.com/skyrimspecialedition/mods/37986) sometime ago but is now archived here. This and the [synthesis](MortalEnemies-Patcher) will always have the latest update and may not match whats hosted on nexus. 
+
 Requirements:
 ------------
 [zedit](https://github.com/z-edit/zedit/releases)
